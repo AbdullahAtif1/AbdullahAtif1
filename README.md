@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdullahAtif1
+- 👋 Hi, I’m @AbdullahAtif
 - 🌱 I’m currently learning Python, Django and React.
 - 📫 How to reach me, send me an email at abdullahatif132@gmail.com
 
