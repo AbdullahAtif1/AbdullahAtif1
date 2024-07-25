@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AbdullahAtif
-- 🌱 I’m currently learning Python, Django and React.
-- 📫 How to reach me, send me an email at abdullahatif132@gmail.com
+- Hi, I’m @AbdullahAtif
+- CEO and Founder SocialCodePk
+- Internationally Published Author
+- Full Stack Django Developer
 
 <!---
 AbdullahAtif1/AbdullahAtif1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
