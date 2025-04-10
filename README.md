@@ -1,4 +1,5 @@
 - Hi, I’m @AbdullahAtif1
+- CTO and Co-founder @DispatchSkool
 - CEO and Founder @SocialCodePk
 - CTO and Co-founder @TruckingStory
 - Internationally Published Author
